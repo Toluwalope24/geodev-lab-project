@@ -2,7 +2,7 @@
 
 ## The question
 
-Which settlements are located within 10 km of Old Oyo National Park?
+How are settlements spatially distributed around Old Oyo National Park, and what are the potential anthropogenic pressures on the park?
 
 ## The study area
 
@@ -10,14 +10,20 @@ Old Oyo National Park, Nigeria.
 
 ## The data I need
 
-- Old Oyo National Park boundary — Protected Planet(WDPA)— [www.protectedplanet.net.] — [SHP] — [11.22MB]
+- Old Oyo National Park boundary — Protected Planet/WDPA — [Link] — Shapefile/GeoJSON — [Approximate size]
 
-- Settlement names — GRID3 — [https://grid3.org/geospatial-data-nigeria] — [SHP] — [29.1MB]
+- Settlement points — GRID3 — http://grid3.org — SHP — 25MB
+
+- Population data — WorldPop — — https://hub.worldpop.org/geodata/summary?id=78605 — Raster — 40MB
+
+- Land Use/Land Cover data (2010 TO 2025)— Landsat — (https://earthexplorer.usgs.gov/) — Raster — 1.5GB
+
+- Road data — OpenStreetMap — http://www.openstreetmap.org — Shapefile — 25MB
 
 ## The planned analysis
 
-A 10 km buffer will be created around Old Oyo National Park. Settlement points located within the buffer will be identified using GIS.
+Settlement distribution around Old Oyo National Park will be analysed using GIS. Buffer zones at different distances from the park boundary will be created to identify nearby settlements. Population distribution, land use and land cover, and road accessibility will also be examined to identify areas that may experience potential anthropogenic pressure.
 
 ## Expected output
 
-A map showing settlements located within 10 km of Old Oyo National Park.
+Maps showing the spatial distribution of settlements around Old Oyo National Park and identifying areas of potential anthropogenic pressure on the park.
