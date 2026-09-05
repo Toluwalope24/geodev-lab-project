@@ -12,7 +12,7 @@ Old Oyo National Park, Nigeria.
 
 - Old Oyo National Park boundary — Protected Planet(WDPA)— [www.protectedplanet.net.] — [SHP] — [11.22MB]
 
-- Settlement names — GRID3 — [grid3.org] — [SHP] — [29.1MB]
+- Settlement names — GRID3 — [https://grid3.org/geospatial-data-nigeria] — [SHP] — [29.1MB]
 
 ## The planned analysis
 
