@@ -1,8 +1,7 @@
-[# My GeoDev Lab Africa project
+# My GeoDev Lab Africa Project
 
-Which settlements are located within 10 km of Old Oyo National Park?
+Spatial analysis of settlement distribution and potential anthropogenic pressure around Old Oyo National Park, Nigeria, from 2015 to 2025.
 
 Built over twelve months with GeoDev Lab Africa, Cohort One.
 
-See Project-brief.md for the full project brief.
-](https://earthexplorer.usgs.gov)
+See [project-brief.md](project-brief.md) for the full project brief
