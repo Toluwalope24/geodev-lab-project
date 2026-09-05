@@ -4,4 +4,4 @@ Spatial analysis of settlement distribution and potential anthropogenic pressure
 
 Built over twelve months with GeoDev Lab Africa, Cohort One.
 
-See [project-brief.md](project-brief.md) for the full project brief
+See [Project-brief.md](Project-brief.md) for the full project brief
