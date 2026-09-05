@@ -10,15 +10,15 @@ Old Oyo National Park, Nigeria.
 
 ## The data I need
 
-- Old Oyo National Park boundary — Protected Planet/WDPA — [Link] — Shapefile/GeoJSON — [Approximate size]
+- Old Oyo National Park boundary — Protected Planet/WDPA —[www.protectedplanet.net.] — [Shapefile]  [11.22MB]
 
-- Settlement points — GRID3 — http://grid3.org — SHP — 25MB
+- Settlement points — GRID3 — [http://grid3.org] — SHP — 29.1MB
 
-- Population data — WorldPop — — https://hub.worldpop.org/geodata/summary?id=78605 — Raster — 40MB
+- Population data — WorldPop — — [https://hub.worldpop.org/geodata/summary?id=78605] — [Raster] — 40MB
 
-- Land Use/Land Cover data (2010 TO 2025)— Landsat — (https://earthexplorer.usgs.gov/) — Raster — 1.5GB
+- Land Use/Land Cover data (2010 TO 2025)— Landsat — [https://earthexplorer.usgs.gov/] — [Raster] — 1.5GB
 
-- Road data — OpenStreetMap — http://www.openstreetmap.org — Shapefile — 25MB
+- Road data — OpenStreetMap — [http://www.openstreetmap.org] — [Shapefile] — 25MB
 
 ## The planned analysis
 
