@@ -1,8 +1,7 @@
-# geodev-lab-project
-# My GeoDev Lab Africa Project
+# My GeoDev Lab Africa project
 
-Which settlements in Ibadan North Local Government Area are located in low-lying areas within 200 metres of a watercourse?
+Which settlements are located within 10 km of Old Oyo National Park?
 
 Built over twelve months with GeoDev Lab Africa, Cohort One.
 
-See project-brief.md for the full project brief.
+See project-brief.md for the full brief.
